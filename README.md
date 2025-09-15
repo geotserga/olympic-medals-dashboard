@@ -2,11 +2,9 @@
 This project is a comprehensive data visualization of Olympic Games data, created in Tableau. The dataset spans 120 years of Olympic history from 1896 to 2016 and includes detailed information about athletes and medal results. The dashboard provides an interactive exploration of Olympic achievements across different dimensions including gender participation, country performance, age demographics, and sport-specific analysis.
 
 🔗 Live Dashboard
-
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/georgia.tserga/viz/OlympicsMedalsAnalysisdashboard/Dashboard1)
 
 📊 Dataset Source
-
 [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?ref=hackernoon.com) - Available on Kaggle
 
 
